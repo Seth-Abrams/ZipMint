@@ -1,0 +1,39 @@
+{
+  "generator-jhipster": {
+    "applicationType": "monolith",
+    "gitCompany": "",
+    "baseName": "jhipsterSampleApplication",
+    "packageName": "rocks.zipcode.io",
+    "packageFolder": "rocks/zipcode/io",
+    "serverPort": 8080,
+    "serviceDiscoveryType": "eureka",
+    "authenticationType": "jwt",
+    "uaaBaseName": "../uaa",
+    "cacheProvider": "hazelcast",
+    "enableHibernateCache": true,
+    "websocket": false,
+    "databaseType": "sql",
+    "devDatabaseType": "h2Disk",
+    "prodDatabaseType": "postgresql",
+    "searchEngine": false,
+    "enableSwaggerCodegen": false,
+    "messageBroker": false,
+    "buildTool": "maven",
+    "useSass": true,
+    "clientPackageManager": "npm",
+    "testFrameworks": [
+      "protractor"
+    ],
+    "enableTranslation": true,
+    "nativeLanguage": "en",
+    "languages": [
+      "es",
+      "en"
+    ],
+    "clientFramework": "angularX",
+    "jhiPrefix": "jhi",
+    "jhipsterVersion": "5.7.1",
+    "jwtSecretKey": "MzRlMWYzZDBhYjE5YWY4NDJlMjAzNTNhN2U0NjNlNDU1ZmQ4MDY0MTZhZGI0ZTc2NzdkYmY5YWI3ZDZkYjY0YThhNTY5NTI2NmRjMWQ2ZTlmY2I4NzI1M2RlZjRkODliYWNhZTQ4MzViZDlkZDE4MmU5MDM5MTMxMWM2MjVmNjI=",
+    "otherModules": []
+  }
+}

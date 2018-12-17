@@ -1,0 +1,9 @@
+{
+    "jhipsterSampleApplicationApp": {
+        "TransactionType": {
+            "null": "",
+            "CREDIT": "CREDIT",
+            "DEBIT": "DEBIT"
+        }
+    }
+}
